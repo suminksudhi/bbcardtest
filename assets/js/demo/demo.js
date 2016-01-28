@@ -1,5 +1,5 @@
 angular
-    .module("demo",["dndLists",'ui.router'])
+    .module("demo",["dndLists",'ui.router',"shop"])
     .config(['$stateProvider','$urlRouterProvider', function ($stateProvider,$urlRouterProvider) {
         $stateProvider
 
@@ -65,7 +65,7 @@ angular
                 }]
             });
 
-        $urlRouterProvider.otherwise("/login");
+        $urlRouterProvider.otherwise("/");
     }])
     .factory('userFactory',['$q',function($q){
         return {

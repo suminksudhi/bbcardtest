@@ -1,0 +1,67 @@
+{
+  "active": true,
+  "articleType": "Lehenga Saree & Lehenga",
+  "attributeNames": [
+    {
+      "id": "1",
+      "name": "size",
+      "rank": "1"
+    }
+  ],
+  "attributeValues": [
+    {
+      "id": "fabric",
+      "value": "net"
+    },
+    {
+      "id": "returnPolicy",
+      "value": "Seller will accept returns within a 15 days from date of delivery of the item"
+    },
+    {
+      "id": "",
+      "value": ""
+    }
+  ],
+  "brand": "Bollywood Lehenga Choli",
+  "category": "Women's Fashion",
+  "changed": false,
+  "description": "Buy Online Riwaz collection Shraddha Kapoor Cream Bollywood Lehenga Choli with Net Fabric, Multi Sequence Work, and Raw Silk Blouse Fabric.",
+  "discount": 33.0,
+  "division": "ETHNIC",
+  "extAttributes": {
+    "returnPolicy": "Seller will accept returns within a 15 days from date of delivery of the item",
+    "fabric": "net"
+  },
+  "gender": "Women",
+  "imageUrl": "https://assetscdn.paytm.com/images/catalog/product/A/AP/APPBOLLYWOOD-LERIWA40964D5B41222/2.jpg",
+  "images": [
+    "https://assetscdn.paytm.com/images/catalog/product/A/AP/APPBOLLYWOOD-LERIWA40964D5B41222/0x1920/70/0.jpg"
+  ],
+  "merchant": "paytm",
+  "newArrival": false,
+  "normalizedCategory": "ethnics",
+  "normalizedPrice": 0.0,
+  "normalizedSubCategory": "lehenga cholis",
+  "offerPrice": 3349.0,
+  "primaryColor": "GREY",
+  "productId": "4E45E6DCC06547B3",
+  "productUrl": "http://www.shortlyst.com/stores/#/product/4E45E6DCC06547B3",
+  "salePrice": 5049.0,
+  "secondaryColor": "Cream",
+  "seoTitle": "bollywood-lehenga-choli-cream-net-lehenga-choli",
+  "skuSet": [
+    {
+      "attributes": {
+        "1": ""
+      },
+      "available": true,
+      "offerPrice": 3349.0,
+      "rank": 1,
+      "salePrice": 5049.0,
+      "skuId": "14035633"
+    }
+  ],
+  "subCategory": "Ethnic Wear",
+  "title": "Bollywood Lehenga Choli Cream Net Lehenga Choli",
+  "trueDiscount": 0.0
+}
